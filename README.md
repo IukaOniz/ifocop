@@ -5,3 +5,6 @@ Site e-Commerce | en php
 ------------------------
 
 site e-commerce fictif afin d'appronfir les connaissances en php et AJAX
+...
+<h1>hello</h1>
+...
