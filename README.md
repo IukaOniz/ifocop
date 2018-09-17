@@ -6,13 +6,6 @@ Site e-Commerce | en php
 
 site e-commerce fictif afin d'appronfir les connaissances en php et AJAX
 
-```Js
-alert ('hello Git');
-```
 
-```css
-h1 {
-  font-size: 2rem;
-}
 
 
