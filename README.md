@@ -5,7 +5,8 @@ Site e-Commerce | en php
 ------------------------
 
 site e-commerce fictif afin d'appronfir les connaissances en php et AJAX
-
+```js
+alert('hello');
 
 
 
