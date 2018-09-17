@@ -8,4 +8,4 @@ site e-commerce fictif afin d'appronfir les connaissances en php et AJAX
 
 ```Js
 alert ('hello Git');
-'''
+
